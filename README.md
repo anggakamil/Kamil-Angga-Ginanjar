@@ -1,2 +1,2 @@
 # Kamil-Angga-Ginanjar
-Aplikasi CRUD Karyawan PT CDE
+Aplikasi CRUD Data Mahasiswa
